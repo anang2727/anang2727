@@ -1,13 +1,17 @@
-# Hallo👋
+# "Hello and welcome! 🌟 Let's dive in!" 
 
-My name is Anang Kurniawan, a dedicated Informatics student 🎓👨‍💻, diving headfirst into the realm of web development 🌐. With a profound interest in technology, I'm committed to delving deeper into web design and development to craft engaging and functional online experiences. Armed with a mix of programming know-how and creativity, I'm dedicated to bringing forth innovative solutions that tackle challenges and add value in the digital world 💡✨.
+- 🎓 A dedicated Informatics student
+- 👨‍💻 Exploring the realm of web development
+- 🌐 Passionate about crafting engaging online experiences
+- 💡 Committed to innovative solutions that add value
+- ✨ Let's create together in the digital world!
 
 ### Connect with Me:
 
-- LinkedIn: [https://www.linkedin.com/in/gilang-adhan/](https://www.linkedin.com/in/gilang-adhan/)
-- Instagram: [your_instagram_handle](https://www.instagram.com/your_instagram_handle/)
-- YouTube: [Your YouTube Channel](https://www.youtube.com/c/YourYouTubeChannel)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Instagram: [Instagram](https://www.instagram.com/anang__k)
+- Tiktok: [Tiktok](https:/www.tiktok.com/@codelazz)
+- YouTube: [YouTube](https://www.youtube.com/channel/UCPRX62uFjI14zGCG3EIyslA)
+- Email: [Email](anangkurniawan2727@gmail.com)
 
 
 <p align="left">
