@@ -1,6 +1,6 @@
 # Hallo👋
 
-Anang Kurniawan, a dedicated Informatics student 🎓👨‍💻, diving headfirst into the realm of web development 🌐. With a profound interest in technology, I'm committed to delving deeper into web design and development to craft engaging and functional online experiences. Armed with a mix of programming know-how and creativity, I'm dedicated to bringing forth innovative solutions that tackle challenges and add value in the digital world 💡✨.
+My name is Anang Kurniawan, a dedicated Informatics student 🎓👨‍💻, diving headfirst into the realm of web development 🌐. With a profound interest in technology, I'm committed to delving deeper into web design and development to craft engaging and functional online experiences. Armed with a mix of programming know-how and creativity, I'm dedicated to bringing forth innovative solutions that tackle challenges and add value in the digital world 💡✨.
 
 ### Connect with Me:
 
