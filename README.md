@@ -10,7 +10,7 @@
 
 - Instagram: [Instagram](https://www.instagram.com/anang__k)
 - Tiktok: [Tiktok](https:/www.tiktok.com/@codelazz)
-- YouTube: [YouTube](https://www.youtube.com/channel/UCPRX62uFjI14zGCG3EIyslA)
+- YouTube: [YouTube]()
 - Email: [Email](anangkurniawan2727@gmail.com)
 <br />
 
@@ -38,4 +38,7 @@
   </a>
 </p>
 <br>
+--
+<br />
+
 
