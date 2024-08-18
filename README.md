@@ -9,8 +9,8 @@
 ### Connect with Me:
 
 - Instagram: [Instagram](https://www.instagram.com/anang__k)
-- Tiktok: [Tiktok](https:/www.tiktok.com/@codelazz)
-- YouTube: [YouTube]()
+- Tiktok: [Tiktok](https:/www.tiktok.com/@akaaa<>)
+- YouTube: [YouTube](https://www.youtube.com/@anangkurniawan2727)
 - Email: [Email](anangkurniawan2727@gmail.com)
 <br />
 
