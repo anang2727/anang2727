@@ -6,28 +6,14 @@
 - 💡 Committed to innovative solutions that add value
 - ✨ Let's create together in the digital world!
 
-### Connect with Me:
-
-- Instagram: [Instagram](https://www.instagram.com/anang__k)
-- Tiktok: [Tiktok](https:/www.tiktok.com/@akaaa<>)
-- YouTube: [YouTube](https://www.youtube.com/@anangkurniawan2727)
-- Email: [Email](anangkurniawan2727@gmail.com)
-<br />
 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,expressjs,bootstrap,tailwind,nodejs,react,laravel&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,expressjs,bootstrap,tailwind,nodejs,react,laravel,nextjs,mongodb,npm,ts,vscode,xd,git,figma,vite&perline=10" />
   </a>
 </p>
 <br>
-
-## Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,xd,ai,figma,&perline=13" />
-  </a>
-</p>
 
 <br>
 <br>
@@ -41,4 +27,11 @@
 --
 <br />
 
+### Connect with Me:
+
+- Instagram: [Instagram](https://www.instagram.com/anang__k)
+- Tiktok: [Tiktok](https:/www.tiktok.com/@akaaa<>)
+- YouTube: [YouTube](https://www.youtube.com/@anangkurniawan2727)
+- Email: [Email](anangkurniawan2727@gmail.com)
+<br />
 
