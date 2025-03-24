@@ -15,6 +15,7 @@
 </p>
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=anang2727&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 <br>
 <br>
 <p align="center">
